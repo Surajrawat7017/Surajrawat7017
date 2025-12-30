@@ -12,7 +12,7 @@
 - 💻 Specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 🌱 Currently exploring **Cloud Technologies** and **DevOps**
 - 🎯 Building scalable web applications with clean architecture
-- 📫 Reach me at: **surajrawat7017@gmail.com**
+- 📫 Reach me at: **surajrawat98377@gmail.com**
 
 ---
 
